@@ -12,3 +12,5 @@ def hello():
 
 import random 
 import time
+
+print("hello world")
