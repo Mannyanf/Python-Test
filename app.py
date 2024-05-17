@@ -12,5 +12,7 @@ def hello():
 
 import random 
 import time
+import tkinter from tk
+
 
 print("hello world")
